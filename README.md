@@ -1,1 +1,1 @@
-# SQL-Intermediate-Project
+# SQL Intermediate Project
